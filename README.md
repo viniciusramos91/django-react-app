@@ -13,7 +13,7 @@ Versões **FRONTEND**:
 
 - React == v16.13.1
 - Redux == v4.0.5
-- Bootstrap == v4.0.0
+- Bootstrap == v4.4.1
 - webpack == 4.42.1
 
 O projeto consiste em gerar uma api (app Django `api`) para alimentar uma aplicação React, sendo ambas 
